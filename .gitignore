@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+#dist/*.exe   # optional: if you don't want to commit the exe
+
+# PyInstaller
+*.spec
+
+# IDE
+.vscode/
+*.swp
+*.swo

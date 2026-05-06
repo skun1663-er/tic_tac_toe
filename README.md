@@ -57,7 +57,7 @@ without installation.
 
 ```bash
 git clone https://github.com/skun1663-er/tic_tac_toe.git
-cd YOUR_REPO
+cd tic_tac_toe
 ```
 
 ### 2. Run the Game

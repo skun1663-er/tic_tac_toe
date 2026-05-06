@@ -4,16 +4,59 @@ __pycache__/
 *$py.class
 *.so
 .Python
+
+# Virtual environments
 env/
 venv/
 ENV/
+.venv/
+
+# Build folders
 build/
-#dist/*.exe   # optional: if you don't want to commit the exe
+dist/
 
 # PyInstaller
 *.spec
 
+# Installer outputs
+*.exe
+Output/
+installer_output/
+
+# Inno Setup temporary/compiler files
+*.iss.bak
+
 # IDE
 .vscode/
+.idea/
 *.swp
 *.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# mypy / type checking
+.mypy_cache/
+
+# Ruff / lint cache
+.ruff_cache/
+
+# Packaging
+*.egg-info/
+.eggs/
+
+# Environment variables
+.env

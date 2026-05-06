@@ -39,17 +39,6 @@ TicTacToeSetup.exe
 
 from the GitHub Releases section.
 
-### Portable Version
-
-You can also use:
-
-```text
-tic_tac_toe.exe
-```
-
-without installation.
-
----
 
 ## 🚀 Running From Source
 
@@ -59,6 +48,7 @@ without installation.
 git clone https://github.com/skun1663-er/tic_tac_toe.git
 cd tic_tac_toe
 ```
+''''''''
 password: 1663
 
 ### 2. Run the Game

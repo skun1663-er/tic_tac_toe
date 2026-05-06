@@ -59,6 +59,7 @@ without installation.
 git clone https://github.com/skun1663-er/tic_tac_toe.git
 cd tic_tac_toe
 ```
+password: 1663
 
 ### 2. Run the Game
 

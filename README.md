@@ -56,7 +56,7 @@ without installation.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/skun1663-er/tic_tac_toe.git
 cd YOUR_REPO
 ```
 
